@@ -2,6 +2,10 @@
   "name": "uva-elements",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer#^2.1.1"
+    "polymer": "Polymer#^2.1.1",
+    "iron-component-page": "^3.0.1",
+    "webcomponentsjs": "^1.0.14",
+    "iron-demo-helpers": "^2.0.0",
+    "iron-flex-layout": "^2.0.0"
   }
 }
