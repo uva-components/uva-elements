@@ -1,0 +1,7 @@
+{
+  "name": "uva-elements",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer#^2.1.1"
+  }
+}
