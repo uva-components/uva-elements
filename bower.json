@@ -16,7 +16,8 @@
     "swiper": "^4.0.0",
     "lodash": "^4.17.4",
     "app-storage": "^2.0.2",
-    "uva-page": "uva-components/uva-page#master"
+    "uva-page": "uva-components/uva-page#master",
+    "paper-card": "PolymerElements/paper-card#^2.0.0"
   },
   "resolutions": {
     "lodash": "^4.17.4"
