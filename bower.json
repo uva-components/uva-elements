@@ -15,7 +15,8 @@
     "font-awesome-polymer-icons": "uva-components/font-awesome-polymer-icons#2.0",
     "swiper": "^4.0.0",
     "lodash": "^4.17.4",
-    "app-storage": "^2.0.2"
+    "app-storage": "^2.0.2",
+    "uva-page": "uva-components/uva-page#master"
   },
   "resolutions": {
     "lodash": "^4.17.4"
