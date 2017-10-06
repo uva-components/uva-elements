@@ -10,6 +10,7 @@
     "iron-flex-layout": "^2.0.0",
     "iron-icon": "^2.0.1",
     "iron-iconset-svg": "^2.1.0",
-    "uva-theme": "uva-components/uva-theme#2.0"
+    "uva-theme": "uva-components/uva-theme#2.0",
+    "iron-icons": "^2.0.1"
   }
 }
