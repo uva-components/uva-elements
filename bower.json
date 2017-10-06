@@ -11,6 +11,7 @@
     "iron-icon": "^2.0.1",
     "iron-iconset-svg": "^2.1.0",
     "uva-theme": "uva-components/uva-theme#2.0",
-    "iron-icons": "^2.0.1"
+    "iron-icons": "^2.0.1",
+    "font-awesome-polymer-icons": "uva-components/font-awesome-polymer-icons#2.0"
   }
 }
