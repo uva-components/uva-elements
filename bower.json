@@ -13,7 +13,7 @@
     "uva-theme": "uva-components/uva-theme#2.0",
     "iron-icons": "^2.0.1",
     "font-awesome-polymer-icons": "uva-components/font-awesome-polymer-icons#2.0",
-    "swiper": "^4.0.0",
+    "swiper": "^4.0.1",
     "lodash": "^4.17.4",
     "app-storage": "^2.0.2",
     "uva-page": "uva-components/uva-page#master",
