@@ -20,7 +20,9 @@
     "paper-card": "PolymerElements/paper-card#^2.0.0",
     "uva-helper-libs": "uva-components/uva-helper-libs#2.0",
     "promise-polyfill": "^6.0.2",
-    "uva-icon-link": "uva-components/uva-icon-link#2.0"
+    "uva-icon-link": "uva-components/uva-icon-link#2.0",
+    "paper-icon-button": "^2.0.1",
+    "paper-button": "^2.0.0"
   },
   "resolutions": {
     "lodash": "^4.17.4",
@@ -40,6 +42,8 @@
     "iron-icons": "^2.0.1",
     "app-storage": "^2.0.2",
     "paper-card": "^2.0.0",
-    "promise-polyfill": "^6.0.2"
+    "promise-polyfill": "^6.0.2",
+    "paper-icon-button": "^2.0.1",
+    "paper-button": "^2.0.0"
   }
 }
