@@ -22,7 +22,8 @@
     "promise-polyfill": "^6.0.2",
     "uva-icon-link": "uva-components/uva-icon-link#2.0",
     "paper-icon-button": "^2.0.1",
-    "paper-button": "^2.0.0"
+    "paper-button": "^2.0.0",
+    "uva-models": "uva-components/uva-models#master"
   },
   "resolutions": {
     "lodash": "^4.17.4",
