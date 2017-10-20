@@ -23,7 +23,8 @@
     "uva-icon-link": "uva-components/uva-icon-link#2.0",
     "paper-icon-button": "^2.0.1",
     "paper-button": "^2.0.0",
-    "uva-models": "uva-components/uva-models#master"
+    "uva-models": "uva-components/uva-models#master",
+    "iron-ajax": "^2.0.5"
   },
   "resolutions": {
     "lodash": "^4.17.4",
@@ -45,6 +46,7 @@
     "paper-card": "^2.0.0",
     "promise-polyfill": "^6.0.2",
     "paper-icon-button": "^2.0.1",
-    "paper-button": "^2.0.0"
+    "paper-button": "^2.0.0",
+    "iron-ajax": "^2.0.5"
   }
 }
