@@ -23,6 +23,7 @@
     "google-map": "dougchestnut/google-map#master",
     "iron-icon": "^2.0.1",
     "iron-icons": "^2.0.1",
-    "iron-iconset-svg": "^2.1.0"
+    "iron-iconset-svg": "^2.1.0",
+    "uva-brand-bar": "uva-components/uva-brand-bar#master"
   }
 }
