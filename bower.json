@@ -18,6 +18,8 @@
     "paper-button": "PolymerElements/paper-button#^2.0.0",
     "uva-models": "uva-components/uva-models#master",
     "iron-list": "PolymerElements/iron-list#^2.0.11",
-    "uva-logos": "uva-components/uva-logos#master"
+    "uva-logos": "uva-components/uva-logos#master",
+    "paper-range-slider": "IftachSadeh/paper-range-slider#^1.0.1",
+    "google-map": "dougchestnut/google-map#master"
   }
 }
