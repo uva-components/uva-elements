@@ -3,7 +3,10 @@
   "private": true,
   "dependencies": {
     "polymer": "Polymer#^1.11",
-    "uva-theme": "uva-components/uva-theme#1.x"
+    "uva-theme": "uva-components/uva-theme#1.x",
+    "swiper": "^4.0.5",
+    "app-storage": "PolymerElements/app-storage#^2.0.2",
+    "uva-footer": "uva-components/uva-footer#1.x"
   },
   "resolutions": {
     "webcomponentsjs": "^0.7.24",
