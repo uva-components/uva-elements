@@ -27,6 +27,7 @@
     "uva-brand-bar": "uva-components/uva-brand-bar#master",
     "uva-footer": "uva-components/uva-footer#master",
     "iron-dropdown": "PolymerElements/iron-dropdown#^2.1.0",
-    "paper-dialog": "PolymerElements/paper-dialog#^2.0.0"
+    "paper-dialog": "PolymerElements/paper-dialog#^2.0.0",
+    "marked-element": "PolymerElements/marked-element#^2.3.0"
   }
 }
