@@ -29,6 +29,7 @@
     "iron-dropdown": "PolymerElements/iron-dropdown#^2.1.0",
     "paper-dialog": "PolymerElements/paper-dialog#^2.0.0",
     "marked-element": "PolymerElements/marked-element#^2.3.0",
-    "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^2.1.0"
+    "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^2.1.0",
+    "iron-ajax": "^2.0.6"
   }
 }
