@@ -32,6 +32,6 @@
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^2.1.0",
     "iron-ajax": "^2.0.6",
     "papaparse": "mholt/PapaParse#^4.3.6",
-    "json-human": "^0.1.1"
+    "json-formatter": "uva-components/json-formatter#master"
   }
 }
