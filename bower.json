@@ -33,6 +33,7 @@
     "iron-ajax": "^2.0.6",
     "papaparse": "mholt/PapaParse#^4.3.6",
     "json-formatter": "uva-components/json-formatter#master",
-    "iron-collapse": "PolymerElements/iron-collapse#^2.1.0"
+    "iron-collapse": "PolymerElements/iron-collapse#^2.1.0",
+    "uva-accordion": "uva-components/uva-accordion#master"
   }
 }
