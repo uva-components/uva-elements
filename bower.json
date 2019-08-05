@@ -35,7 +35,8 @@
     "json-formatter": "uva-components/json-formatter#master",
     "iron-collapse": "PolymerElements/iron-collapse#^2.1.0",
     "app-route": "PolymerElements/app-route#^2.1.0",
-    "uva-accordion": "uva-components/uva-accordion#2.0.0"
+    "uva-accordion": "uva-components/uva-accordion#2.0.0",
+    "fuse.js": "fuse#^3.4.5"
   },
   "resolutions": {
     "lodash": "^4.17.5",
